@@ -21,9 +21,9 @@ O design foi inspirado nas cores e identidade visual do aplicativo da empresa, c
 ## 📲 Acesso
 
 - Instagram: [@lileotlileot](https://instagram.com/lileotlileot)
-- WhatsApp: [Clique aqui para conversar](https://wa.me/19997376030)
+- WhatsApp: [Clique aqui para conversar](https://wa.me/19989548149)
 - App Passageiro (Play Store): [Lileot Passageiro](https://play.google.com/store/apps/details?id=br.com.lileot.passenger.drivermachine)
-- App Motorista (Play Store): [Lileot Motorista]([coloque_o_link_aqui](https://play.google.com/store/apps/details?id=br.com.lileot.taxi.drivermachine)
+- App Motorista (Play Store): [Lileot Motorista]((https://play.google.com/store/apps/details?id=br.com.lileot.taxi.drivermachine)
 
 ---
 
